@@ -1,0 +1,12 @@
+name: BSkywars
+description: Plugin de Skywars
+main: com.bestfyplugner.bskywars.Main
+version: 3.0
+authors: besftyplugner
+commands:
+  skywars:
+    aliases: [sw]
+    usage: /<command> help
+    description: Comando Principal do Skywars
+    
+    
